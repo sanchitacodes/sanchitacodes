@@ -22,6 +22,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitacodes&show_icons=true&locale=en" alt="sanchitacodes" /></p>
 
+<h3 align="left">🏆 Achievements</h3>
+<ul>
+  <li>Cleared round 1 of Re-imagination Hackathon using boat India redesign</li>
+</ul>
 
 <!--
 **sanchitacodes/sanchitacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
