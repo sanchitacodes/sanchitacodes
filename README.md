@@ -22,9 +22,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitacodes&show_icons=true&locale=en" alt="sanchitacodes" /></p>
 
+<h3 align="left">Notable Projects</h3>
+<ul>
+  <li><strong>Hospital Management System</strong> — A PHP-based system to streamline patient records, appointments, and staff management.</li>
+  <li><strong>Learning Management System</strong> — Scalable e-learning platform with Stripe payments and personalized course recommendations</li>
+</ul>
+
+
 <h3 align="left">🏆 Achievements</h3>
 <ul>
-  <li>Cleared round 1 of Re-imagination Hackathon using boat India redesign</li>
+  <li> Cleared round 1 of Reimagination Hackathon with Boat India redesign</li>
 </ul>
 
 <!--
