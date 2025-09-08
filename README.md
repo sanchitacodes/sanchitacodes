@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi there, I'm Sanchita</h1>
 <h3 align="center">Building functional & beautiful UIs, powered by a splash of color magic 🎨💙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchitacodes&label=Profile%20views&color=0e75b6&style=flat" alt="sanchitacodes" /> </p>
